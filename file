@@ -13,7 +13,7 @@
   </Element>
   <Equality id="aEb">
     <first>a</first>
-    <second>b</second>
+    <second>X</second>
   </Equality>
   <Equality id="bEc">
     <first>b</first>
