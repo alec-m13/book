@@ -2,12 +2,11 @@
   
 <EqualityTransitive><requiredURIs><definition id="Set">book/Set/Set</definition><definition id="Element">book/Set/SetElement</definition><definition id="Equality">book/Set/EqualityOfSetElements</definition></requiredURIs><statements>
   <Set id="X"/>
-  <Set id="Y"/>
   <Element id="a">
-    <of>Y</of>
+    <of>X</of>
   </Element>
   <Element id="b">
-    <of>Y</of>
+    <of>X</of>
   </Element>
   <Element id="c">
     <of>X</of>
